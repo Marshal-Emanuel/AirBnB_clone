@@ -20,4 +20,4 @@
 
 
 #### Author
-[Jane Ng'ethe](https://github.com/Janengethe)
+[Emanuel Marshal](https://github.com/Marshal-Emanuel)
